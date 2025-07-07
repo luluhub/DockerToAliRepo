@@ -1,4 +1,4 @@
-docker-registry-ui:static
+joxit/docker-registry-ui:static
 #registry
 #redis:7.4.1
 #openjdk:8
