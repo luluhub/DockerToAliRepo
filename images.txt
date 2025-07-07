@@ -1,3 +1,4 @@
+registry
 redis:7.4.1
 openjdk:8
 #nginx:1.27.2
