@@ -1,4 +1,5 @@
-joxit/docker-registry-ui:static
+mysql:8.0
+#joxit/docker-registry-ui:static
 #registry
 #redis:7.4.1
 #openjdk:8
